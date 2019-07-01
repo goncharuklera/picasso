@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto Condensed', 'Bebas Neue', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: maroon;
+    font-size: 170%;
+    margin: 0px;
+}
+a{
+    text-decoration-line: none;
+    color: maroon;
+}
+a:hover{
+    color: lightcoral;
+}
+#top {
+    background-color: bisque;
+    width: 100%;
+}
+h1 {
+    padding-left: 10%;
+}
+#up {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+}
+#shapka {
+    margin-top: 10px;
+    width: 100%;
+}
+#back1 {
+    background-color: lightcyan;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+#maininf{
+    line-height: 150%;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.sections{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+}
+#gri{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.square{
+    width: 15%;
+    margin: 5px;
+}
+#ob{
+    width: 90%;
+}
+.lil{
+    width: 50px;
+}
+#gal{
+    background-color: lavenderblush;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    align-content: center;
+}
+#pics{
+    padding-left: 4%;
+}
+#back2{
+    background-color: lightcyan;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+#at{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+.conts{
+    font-weight: bold;
+    font-size: 120%;
+}
+.co{
+    padding-top: 10px;
+}
+.gri2{
+    font-size: 100%;
+    display: grid;
+    grid-template-columns: 1fr 6fr 1fr 6fr;
+}
